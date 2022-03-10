@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+header, footer {
+  background-color: lightblue;
+  padding: 20px; }
+
+footer {
+  position: fixed;
+  width: 100%;
+  bottom: 0px; }
+
+body {
+  font-family: Redresse, cursive; }
+
+body {
+  background-color: lightblue;
+  font-size: 25px;
+  font-family: 'Redressed', cursive; }
+
+h1 {
+  color: #700343;
+  font-size: 65px; }
+
+nav a {
+  color: #5cce74;
+  text-decoration: none;
+  text-transform: uppercase; }
+
+main {
+  display: block;
+  text-align: justify;
+  padding: 25px;
+  text-justify: auto; }
+
+h3 {
+  color: blue; }
+
+p {
+  color: #4141ad; }

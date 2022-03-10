@@ -1,0 +1,35 @@
+@import  "colores";
+@import  "estructura";
+@import "tipografia";
+
+
+body {
+    background-color: $fondo-primario;
+    font-size: 25px;
+    font-family:'Redressed', cursive;
+}
+
+h1 {
+  color: $color-fuente;
+  font-size: 65px;
+}
+
+nav {
+  a{ 
+    color: $fondo;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+}
+main {
+display:block;
+text-align: justify;
+padding: 25px;
+text-justify: auto;
+}
+h3{
+  color:$color-secundario;
+}
+p{
+  color:$color-primario;
+}
